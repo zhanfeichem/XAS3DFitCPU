@@ -1,0 +1,2 @@
+import step3_finetune_model
+step3_finetune_model.main()
